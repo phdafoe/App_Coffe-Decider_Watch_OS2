@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>App_Coffe Decider_Watch_OS2 WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>App_Coffe Decider_Watch_OS2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Notification - App_Coffe Decider_Watch_OS2 WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>63A48E801C4BF03E002C7516</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63A48E941C4BF03F002C7516</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63A48E9F1C4BF03F002C7516</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63A48EA81C4BF03F002C7516</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
