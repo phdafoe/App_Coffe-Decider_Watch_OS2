@@ -80,14 +80,10 @@ class InterfaceController: WKInterfaceController {
         
     }
     
-    
-    
-    
-    
+
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
-        
-        
+
         findMaxItemsInArray()
         
         // Configure interface objects here.
